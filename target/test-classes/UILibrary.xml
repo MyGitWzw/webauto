@@ -1,0 +1,20 @@
+<Pages>
+
+    <Page page = "注册页面">
+        <UIElement keyword="手机号" by="id" value="mobilephone"></UIElement>
+        <UIElement keyword="密码" by="id" value="password"></UIElement>
+        <UIElement keyword="确认密码" by="id" value="pwdconfirm"></UIElement>
+        <UIElement keyword="验证码" by="id" value="verifycode"></UIElement>
+        <UIElement keyword="注册按钮" by="id" value="signup-button"></UIElement>
+        <UIElement keyword="展示错误信息的元素" by="classname" value="tips"></UIElement>
+    </Page>
+
+
+    <Page page = "登录页面">
+        <UIElement keyword="手机号" by="id" value="mobilephone"></UIElement>
+        <UIElement keyword="密码" by="id" value="password"></UIElement>
+        <UIElement keyword="登录按钮" by="id" value="login"></UIElement>
+        <UIElement keyword="展示错误信息的元素" by="classname" value="tips"></UIElement>
+    </Page>
+
+</Pages>

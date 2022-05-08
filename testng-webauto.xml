@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="TestNG">
+        <classes>
+            <!--<class name="testng.test.NewTestNG"/>-->
+            <!--<class name="testng.test.TestNGHelloWorld" />-->
+            <!--<class name="httpclientdemo.RegisterCase_v7"/>-->
+            <class name="com.webauto.day01.IframeDemo"></class>
+            <!--<class name="com.webauto.cases.RegisterCase"></class>-->
+        </classes>
+    </test> <!-- TestNG -->
+    <parameter name="broswerTyep" value="chrome"></parameter>
+</suite> <!-- Defult Suite -->
