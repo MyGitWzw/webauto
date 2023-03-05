@@ -27,12 +27,15 @@
       <dir>C:\Users\wzw\IdeaProjects\webauto\src\test\java</dir>
     </dirStrings>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="938" />
     <option name="height" value="688" />
   </component>
+=======
+>>>>>>> dev
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />

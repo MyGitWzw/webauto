@@ -10,7 +10,12 @@ public class GitBasic {
         System.out.println("This is a test method to verify");
     }
 
-    public void testHotfixBug(){
+
+    public void testHotfixBug() {
         System.out.println("Fix the issue in bug branch");
+    }
+
+    public void testGitbranch(){
+        System.out.println("Switched to branch dev");
     }
 }
