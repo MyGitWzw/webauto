@@ -9,4 +9,8 @@ public class GitBasic {
     public  void testGit(){
         System.out.println("This is a test method to verify");
     }
+
+    public void testHotfixBug(){
+        System.out.println("Fix the issue in bug branch");
+    }
 }
